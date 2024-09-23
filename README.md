@@ -8,9 +8,9 @@ I'm working to create an open-source ecosystem of alternatives to paid software,
 
 #### How to reach me:
 
-* (https://x.com/maurohouless)[X]
-* (https://www.upwork.com/freelancers/~0154f55fd3982d52ce?mp_source=share)[Upwork]
-* (https://www.linkedin.com/in/maurocasas/)[LinkedIn]
+* https://x.com/maurohouless
+* https://www.upwork.com/freelancers/~0154f55fd3982d52ce
+* https://www.linkedin.com/in/maurocasas/
 
 <!--
 **maurocasas/maurocasas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
