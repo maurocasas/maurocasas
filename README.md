@@ -8,7 +8,7 @@ I'm working to create an open-source ecosystem of alternatives to paid software,
 
 #### How to reach me:
 
-* https://x.com/maurohouless
+* https://x.com/maurohouseless
 * https://www.upwork.com/freelancers/~0154f55fd3982d52ce
 * https://www.linkedin.com/in/maurocasas/
 
